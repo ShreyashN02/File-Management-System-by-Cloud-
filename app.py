@@ -9,13 +9,13 @@ import sqlite3
 from datetime import datetime
 
 app = Flask(__name__)
-app.secret_key = 'your_secret_key_here'  # Change this to a random secret key
+app.secret_key = 'add app secret key'
 
 # Cloudinary configuration
 cloudinary.config(
-    cloud_name="dro9la4md",
-    api_key="543898143451387",
-    api_secret="d9kNxlhA-hBrOBJe3QjO6dI5jjM",
+    cloud_name="add cloud name",
+    api_key="add api key",
+    api_secret="add api secret",
     secure=True
 )
 

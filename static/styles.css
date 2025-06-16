@@ -6,10 +6,18 @@
 }
 
 body {
-    background-color: #f5f5f5;
+ background-color:rgb(230, 243, 255);
     color: #333;
-    line-height: 1.6;
+    line-height: 1.6;
+
+
+ 
+
 }
+
+    
+
+
 
 .container {
     width: 90%;
@@ -23,7 +31,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #2b5797;
+    background-color: #e6f3ff;
     padding: 1rem;
     border-radius: 8px;
     margin-bottom: 2rem;
@@ -31,12 +39,13 @@ body {
 }
 
 .nav-brand {
+    color: black;
     font-size: 1.5rem;
     font-weight: bold;
 }
 
 .nav-links a {
-    color: white;
+    color: black;
     text-decoration: none;
     margin-left: 1.5rem;
     padding: 0.5rem;
