@@ -10,11 +10,11 @@ A secure and scalable cloud storage system that allows users to upload, store, a
 - 🧩 User-friendly interface for file access and control
 - ⚙️ Scalable backend architecture
 
-- 
 # Create a .env file and add your Cloudinary credentials
 CLOUDINARY_CLOUD_NAME=your-cloud-name
 CLOUDINARY_API_KEY=your-api-key
 CLOUDINARY_API_SECRET=your-api-secret
+
 
 ## 🛠️ Tech Stack
 
