@@ -13,9 +13,9 @@ app.secret_key = 'add app secret key'
 
 # Cloudinary configuration
 cloudinary.config(
-    cloud_name="add cloud name",
-    api_key="add api key",
-    api_secret="add api secret",
+    cloud_name="dqvqyqx5l",
+    api_key="377445867637447",
+    api_secret="WFwH4NeCAhnLRSIOMOXOhbrQprI",
     secure=True
 )
 
