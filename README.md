@@ -23,6 +23,5 @@ CLOUDINARY_API_SECRET=your-api-secret
 - **Cloud Storage**: [Cloudinary API](https://cloudinary.com/)
 - **Database**: SQL (e.g., SQLite / MySQL / PostgreSQL – specify if needed)
 
-#🙋‍♂️ Author
-Your Name= Shreyash Narad
+#🙋‍♂️ Author= Shreyash Narad
 
